@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Tujuh Live"
 include(":app")
- 
+include(":feature:home:data")
+include(":feature:home:domain")
+include(":feature:home:ui")
